@@ -1,0 +1,21 @@
+Timestamp,Step,Status
+2024/05/20 22:58:34,Navigate to site,Success
+2024/05/20 22:58:39,Enter username,Success
+2024/05/20 22:58:41,Enter password,Success
+2024/05/20 22:58:51,Click login button,Success
+2024/05/20 22:58:56,Select province,Success
+2024/05/20 22:59:00,Select district,Success
+2024/05/20 22:59:02,Select facility and click enter,Success
+2024/05/20 22:59:04,Click NRC button,Success
+2024/05/20 22:59:08,Search patient,Success
+2024/05/20 22:59:13,Click edit profile,Success
+2024/05/20 22:59:17,Click edit in contact info,Success
+2024/05/20 22:59:18,Change contact number,Success
+2024/05/20 22:59:21,Select country code,Success
+2024/05/20 22:59:23,Add additional contact number,Success
+2024/05/20 22:59:25,Click next button 1,Success
+2024/05/20 22:59:27,Enter father's first name,Success
+2024/05/20 22:59:29,Enter father's last name,Success
+2024/05/20 22:59:29,Select father's nationality,Success
+2024/05/20 22:59:33,Click next button 2,Success
+2024/05/20 22:59:34,Click submit button,Success
